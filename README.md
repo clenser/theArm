@@ -1,4 +1,4 @@
-# theArm Control with Mediapipe and OpenCV
+# theArm project Control with Mediapipe and OpenCV
 
 This project uses Mediapipe and OpenCV to track hand movements and gestures through a webcam. The tracked hand data can be used to control various devices such as servos on a theArm robotic arm.
 
